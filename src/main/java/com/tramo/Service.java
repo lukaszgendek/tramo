@@ -6,6 +6,6 @@ public class Service {
     }
 
     public void updateScore(String hometeam, int homeScore, String awayTeam, int awayScore) {
-        
+
     }
 }
